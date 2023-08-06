@@ -1,4 +1,4 @@
-EXPERIêNCIA PRÁTICA - NExT
+EXPERIÊNCIA PRÁTICA - NExT
 
 Algoritmo de comparação de imagens realizado em Python
 
